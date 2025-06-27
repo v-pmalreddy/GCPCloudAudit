@@ -1,4 +1,4 @@
-# Integrating Google Cloud Platform DNS into Microsoft Sentinel
+# Integrating Google Cloud Platform Audit Logs into Microsoft Sentinel
 ## Table of contents
 - [Introduction](#intro)
 - [Prerequisites](#step2)
@@ -9,7 +9,7 @@
 <a name="intro">
 
 ## Introduction
-The Google Cloud Platform DNS Codeless Connector for Microsoft Sentinel enables seamless integration of Google Cloud Platform's DNS logs with Microsoft Sentinel without the need for custom code. Developed as part of the Codeless Conector Platform(CCP), this connector simplifies the process of collecting and ingesting DNS query logs and DNS audit logs from Google Cloud Platform into Sentinel.
+The Google Cloud Platform Audit Codeless Connector for Microsoft Sentinel enables seamless integration of Google Cloud Platform's Audit logs with Microsoft Sentinel without the need for custom code. Developed as part of the Codeless Conector Platform(CCP), this connector simplifies the process of collecting and ingesting Audit logs and Transparency logs from Google Cloud Platform into Sentinel.
 
 
 <a name="step2">
